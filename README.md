@@ -6,11 +6,11 @@ An app to generate a character art styled image for a given input image
 Open the terminal, and run one of the two commands below:
 
 ```
-char_image_generator.exe <IMG_FILE_NAME>
+char-art-maker.exe <IMG_FILE_NAME>
 ```
 
 ```
-char_image_generator.exe <IMG_FILE_NAME> <ROWS> <COLS>
+char-art-maker.exe <IMG_FILE_NAME> <ROWS> <COLS>
 ```
 
 The arguments for the number of rows and columns (i.e. <ROWS> and <COLS>) inform the dimensions of the character-art image to be generated.
